@@ -18,6 +18,14 @@ h1 {
     letter-spacing:5px;
 }
 
+p {
+    margin: auto;
+    margin-top:1px;
+    color: white;
+    font-size: 10px;
+    letter-spacing:5px;
+}
+
 #container {
 margin: auto;
 margin-top:50px;
